@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/zjVDK9Kcdjcadxxq/5VT5PrwUs4+DN9frP+TWLE5mW//ABw8cD727j4Vu7ILw9EMliYuNbQ9ERGzmw6Cz7qWw==",
+  "success": true,
+  "projectFilePath": "/home/fcollonge/Workspaces/Panda_Paws/PANDA_PAWS/PANDA_PAWS.csproj",
+  "expectedPackageFiles": [
+    "/home/fcollonge/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/fcollonge/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
